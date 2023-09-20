@@ -1,2 +1,9 @@
 # perjalanan-belajar
-mungkin ini bisa menjadi history yang kelak aku kenang, tidak melulu semua tentang pencapaian, mungkin saja perjalanan dalam menggapainya merupakan hal yang paling berkesan.
+Pengalaman belajar di Academy Dicoding<br>
+
+20 September 2023<br>
+Belajar kelas memulai Belajar dasar Git dengan GitHub (Progres 45%)<br>
+* Belajar tentang apa itu Git dari dasar.<br>
+* Belajar cara membuat akun GitHub dan cara untuk menggunakanya.<br>
+
+
